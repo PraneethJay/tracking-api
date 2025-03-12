@@ -1,6 +1,6 @@
 # tracking-api
 - API that generates unique tracking numbers for parcels.
-
+- Spring Boot Project, with dependencies for data JPA, Redis, PostgreSQL, and H2 Database.
 
 ### Run Server
 - Java 17
