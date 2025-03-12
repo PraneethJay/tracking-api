@@ -3,6 +3,8 @@
 
 
 ### Run Server
+- Java 17
+- Set PostgreSQL and Redis configs to application.properties
 - mvn clean package
 - java -jar target/tracking-api-0.0.1-SNAPSHOT.jar 
 
